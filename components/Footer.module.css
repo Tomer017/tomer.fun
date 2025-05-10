@@ -1,0 +1,32 @@
+.footer {
+  width: 100%;
+  padding: 2rem 1rem;
+  border-top: 1px solid #eaeaea;
+}
+
+.content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.content a {
+  color: var(--accent);
+  font-weight: 500;
+  transition: opacity 0.2s ease;
+}
+
+.content a:hover {
+  opacity: 0.8;
+}
+
+@media (max-width: 600px) {
+  .content {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+} 

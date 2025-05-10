@@ -1,0 +1,42 @@
+TODO LIST FOR TOMER.FUN
+------------------------
+
+CORE INFRASTRUCTURE:
+- Set up continuous deployment with Vercel or Netlify
+- Add analytics tracking (like Plausible or Google Analytics)
+- Implement SEO optimization
+- Add favicon and site metadata
+
+INTERACTIVE EXPERIENCES TO IMPLEMENT:
+1. "Spend My Money" - A game where users can spend a large sum of money on various items
+   - Research items with different price points
+   - Design visual representation of money remaining
+   - Create satisfying animations for purchases
+
+2. "Scale of the Universe" - Interactive visualization comparing sizes of objects
+   - Gather data on objects from microscopic to cosmic scale
+   - Implement smooth zooming and transitions
+   - Add interesting facts for each object
+
+3. "Decision Maker" - Fun tool that helps users make decisions
+   - Design random decision algorithm with animations
+   - Allow users to input their own options
+   - Add sound effects and visual feedback
+
+4. "Internet Time Machine" - View popular websites through different time periods
+   - Gather historical screenshots of popular websites
+   - Create timeline interface for navigation
+   - Add historical context for each era
+
+DESIGN & USER EXPERIENCE:
+- Refine color scheme and typography
+- Design a distinctive logo
+- Implement dark mode toggle
+- Create smooth page transitions
+- Add subtle background animations
+
+COMMUNITY & SHARING:
+- Add social sharing functionality
+- Implement URL parameters for sharing specific states
+- Create embeddable versions of experiences
+- Add "suggest an idea" form 
